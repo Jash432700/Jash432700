@@ -5,6 +5,8 @@ I'm passionate about leveraging data to uncover insights and build innovative so
 📚 Education
 Bachelor of Sciences in Mathematics (Honours) - M.S. University, Vadodara, Gujarat (Currently Pursuing)
 S.S.C. & H.S.C. - Gujarat Secondary and Higher Secondary Education Board, 2020 & 2022
+
+
 💡 Skills
 Natural Language Processing: Proficient in text preprocessing, word embedding techniques, and POS tagging.
 Statistics: Well-versed in descriptive and inferential statistics.
