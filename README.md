@@ -9,6 +9,13 @@
 
 - 📫 How to reach me **jashprajapati889@gmail.com**
 
+- 💡 Skills
+Natural Language Processing: Proficient in text preprocessing, word embedding techniques, and POS tagging.
+Statistics: Well-versed in descriptive and inferential statistics.
+Data Visualization: Experienced in creating insightful visualizations using Power BI, Seaborn, and Matplotlib.
+Programming Languages: Proficient in Python and SQL.
+Libraries: Skilled in Pandas, Dask, NumPy, Scikit-learn, and ML-extend.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
