@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jash Prajapati</h1>
 <h3 align="center">A passionate to Learn and Explore AI.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jash432700" alt="jash432700" /></a> </p>
-
 - 🔭 I’m currently working on **Quora Duplicate Question Pair Project**
 
 - 🌱 I’m currently learning **Deep Learning**
@@ -10,11 +8,15 @@
 - 📫 How to reach me **jashprajapati889@gmail.com**
 
 - 💡 Skills
-Natural Language Processing: Proficient in text preprocessing, word embedding techniques, and POS tagging.
-Statistics: Well-versed in descriptive and inferential statistics.
-Data Visualization: Experienced in creating insightful visualizations using Power BI, Seaborn, and Matplotlib.
-Programming Languages: Proficient in Python and SQL.
-Libraries: Skilled in Pandas, Dask, NumPy, Scikit-learn, and ML-extend.
+-  Natural Language Processing: Proficient in text preprocessing, word embedding techniques, and POS tagging.
+
+-  Statistics: Well-versed in descriptive and inferential statistics.
+
+-  Data Visualization: Experienced in creating insightful visualizations using Power BI, Seaborn, and Matplotlib.
+
+-  Programming Languages: Proficient in Python and SQL.
+
+-  Libraries: Skilled in Pandas, Dask, NumPy, Scikit-learn, and ML-extend.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
